@@ -1,0 +1,7 @@
+/venv/
+/output/
+/resources/
+Quiz Network.session
+Quiz Network.session-journal
+quiz-bot.messenger.key
+quiz-bot.messenger.pem
